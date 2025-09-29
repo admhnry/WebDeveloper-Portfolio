@@ -1,1 +1,6 @@
-images/placeholder.txt
+cd path/to/WebDeveloper-Portfolio/images
+# Copy your image files into this folder
+git add .
+git commit -m "Add new images"
+git push
+
